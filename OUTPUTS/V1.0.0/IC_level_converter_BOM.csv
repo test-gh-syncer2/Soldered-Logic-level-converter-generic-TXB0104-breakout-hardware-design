@@ -1,0 +1,13 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;",,,,,,,,,,,,,,,,";"buzzardLabel";17;"";;;
+2;"H1,H2";"HOLE_3.2mm";2;"HOLE_3.2mm";;;
+3;"G***";"Logo-Front-Soldered-4mm";1;"LOGO";;;
+4;"R1";"0603R";1;"10k";;;
+5;"U1";"TXB0104QPWRQ1";1;"TXB0104QPWRQ1";;;
+6;"FD1";"FIDUCIAL_23";1;"FIDUCIAL";;;
+7;"C1,C2";"0603C";2;"0.1uF";;;
+8;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
+9;"G***";"Logo-Back-SolderedFULL-10mm";1;"LOGO";;;
+10;"K2";"HEADER_MALE_1X1";1;"HEADER_MALE_1X1";;;
+11;"";"Version1.0.0.";1;"";;;
+12;"K3,K1";"HEADER_MALE_6X1";2;"HEADER_MALE_6X1";;;
